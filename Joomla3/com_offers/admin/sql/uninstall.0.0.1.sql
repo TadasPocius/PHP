@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS jml_custom_offers

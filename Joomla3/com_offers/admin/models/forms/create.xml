@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset addfieldpath="/administrator/components/com_offers/models/fields">
+		<field name="description" type="editor"
+			label="COM_CONTACT_FIELD_INFORMATION_MISC_LABEL"
+			description="COM_CONTACT_FIELD_INFORMATION_MISC_DESC"
+			class="inputbox"
+			filter="JComponentHelper::filterText"
+			buttons="true"
+			hide="readmore,pagebreak"
+			 />
+	</fieldset>
+</form>
